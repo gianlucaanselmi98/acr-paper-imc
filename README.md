@@ -23,7 +23,7 @@ Replace <time duration of the experiment> with the desired duration of the exper
 
 The collected .pcap files are available at these links:
 
-UK - Samsung <a id='https://osf.io/y7svd/?view_only=695d9733356a44889160f8a3d55da684'></a>
+UK - Samsung `https://osf.io/y7svd/?view_only=695d9733356a44889160f8a3d55da684`
 
 UK - LG `https://osf.io/768t2/?view_only=508a817405e04d07978593d0ae4ff00c`
 
