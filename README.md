@@ -19,3 +19,10 @@ Execute the experiment.sh script with the following parameters:
 
 Replace <.txt file of the TV> with either `exp_lg.txt` or `exp_samsung.txt`, depending on the TV brand you want to analyze.
 Replace <time duration of the experiment> with the desired duration of the experiment in seconds.
+
+
+The collected .pcap files are available at these links:
+UK - Samsung `https://osf.io/y7svd/?view_only=695d9733356a44889160f8a3d55da684`
+UK - LG `https://osf.io/768t2/?view_only=508a817405e04d07978593d0ae4ff00c`
+US -Samsung `https://osf.io/kqw2p/?view_only=b5bff609bbf745f0b9d3d89265d2dbe6`
+US - LG `https://osf.io/2p6ar/?view_only=aae99015580241c9a1877d3ba3d63e12`
